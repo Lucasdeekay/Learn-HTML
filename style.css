@@ -1,0 +1,43 @@
+html, body, footer{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: fantasy;
+    border-radius: 50%;
+    background-color: grey;
+}
+img{
+    border-radius: 50%;
+}
+.main-header, .main-footer{
+    background-color: green;
+}
+.icon{
+    word-spacing: 100px;
+}
+.title-head{
+    font-size: xx-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkgoldenrod;
+    border-style: double;
+    background-color: black;
+    border-color: coral;
+    border-radius: 25%;
+}
+.nav{
+    text-align: center;
+    font-size: x-large;
+    word-spacing: 80px;
+}
+.main-body{
+    text-align: center;
+}
+.sub-header{
+    background-color: greenyellow;
+    text-align: center;
+}
+.main-footer{
+    text-align: center;
+    padding-bottom: 40px;
+}
